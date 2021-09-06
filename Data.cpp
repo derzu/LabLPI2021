@@ -2,7 +2,7 @@
 
 Data::Data()
 {
-    dia = 1;
+    dia = 6;
     mes = 1;
     ano = 2000;
 }
