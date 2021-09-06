@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Data.h"
 
 using namespace std;
 int globalVar = 0;
