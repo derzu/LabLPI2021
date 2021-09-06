@@ -4,5 +4,5 @@ Data::Data()
 {
     dia = 6;
     mes = 1;
-    ano = 1900;
+    ano = 2000;
 }
