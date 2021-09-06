@@ -10,6 +10,8 @@ class Data
         int mes;
         int ano;
 
+    private:
+        int hora;
 };
 
 #endif // DATA_H
